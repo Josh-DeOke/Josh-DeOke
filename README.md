@@ -8,7 +8,7 @@ I am Josh, a self-taught Web3 Developer specialized in Ethereum.
 
 - 🌱 I’m currently learning React.
 
-- 📫 How to reach me: [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=For-the-badge" alt="badge"/>](https://www.linkedin.com/in/joshua-okeleke/) [<img src="https://img.shields.io/badge/email-0078D4?logo=email&logoColor=white&style=For-the-badge" alt="badge"/>](josh.okeleke@outlook.com)
+- 📫 How to reach me: [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=For-the-badge" alt="badge"/>](https://www.linkedin.com/in/joshua-okeleke/)
 
 ***
 ### Technology Stack 🛠️
