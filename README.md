@@ -4,8 +4,6 @@ I am Josh, a self-taught Web3 Developer specialized in Ethereum.
 
 **About Me:**
 
-- 🔭 Presently working as a freelance smart-contract and solidity developer.
-
 - 🌱 I’m currently learning React.
 
 - 📫 How to reach me: [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=For-the-badge" alt="badge"/>](https://www.linkedin.com/in/joshua-okeleke/)
