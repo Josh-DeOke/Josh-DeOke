@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Josh, a self-taught Web3 Developer specialized in Ethereum.
+I am Josh, a self-taught Web3 enthusiast specialized in Ethereum.
 
 **About Me:**
 
